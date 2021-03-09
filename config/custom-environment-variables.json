@@ -1,0 +1,10 @@
+{
+  "port": "PORT",
+  "dbPgConnString": "DATABASE_PG_URL",
+  "email": {
+    "host": "",
+    "port": "",
+    "username": "",
+    "password": ""
+  }      
+}

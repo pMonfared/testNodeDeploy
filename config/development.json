@@ -1,0 +1,7 @@
+﻿{
+  "name": "Project Name - Dev Mode",
+  "protocol": "http",
+  "serverUrl": "localhost",
+  "serverUrlWebUrlLink": "localhost:5000/",
+  "dbPgConnString": "postgres://postgres:123456@localhost:5433/NodeJsChallangeNum1"
+}
